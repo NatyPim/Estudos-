@@ -1,7 +1,8 @@
 # EstudosPowerBI - DSA
 
 #### Dados fictícios 
-[Mini-Projeto 1 -  Marketing.pdf](https://github.com/NatyPim/EstudosPowerBI/files/11352934/Mini-Projeto.1.-.Marketing.pdf)
+[Mini-Projeto 1 -  Marketing.pdf](https://github.com/NatyPim/EstudosPowerBI/files/11353327/Mini-Projeto.1.-.Marketing.pdf)
+
 ##### Existem muitos indicadores de Marketing diferentes que as empresas podem usar para medir o sucesso de suas estratégias e campanhas. Alguns dos principais indicadores incluem:
 
 ###### -Taxa de conversão;
